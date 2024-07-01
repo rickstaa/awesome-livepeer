@@ -156,6 +156,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 - [Livepeer Orchestrator Explorer](https://stronk.rocks/livepeer) - Orchestrator explorer and data tools.
 - [Production Log Monitoring and Alerting](https://forum.livepeer.org/t/guide-production-log-monitoring-and-alerting/2004) - Forum guide that's very useful for node operator monitoring. <!--lint ignore double-link-->
 - [Orchestrator Pricing Visibility](https://grafana.stronk.tech/d/g423g24y/orchestrator-ppp?orgId=1&refresh=5s&var-regions=Leiden) - Price per pixel changes over time on a per orchestrator basis.
+- [RPC Balancer(beta)](https://github.com/FTKuhnsman/rpc-balancer) - Tool that allows Livepeer orchestrators and broadcasters to use multiple RPC providers for redundancy.
 
 ### Analytics / Stats / Monitoring
 
