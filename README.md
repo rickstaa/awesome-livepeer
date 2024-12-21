@@ -43,6 +43,7 @@ A community curated list of projects, tutorials, demos, and resources within the
 
 - [Beem](https://www.beem.xyz/)
 - [BeyondClub](https://www.beyondclub.xyz/)
+- [Bloomers](https://bloomers.tv/)
 - [Bonfire](https://www.bonfire.xyz/)
 - [Buttrfly](https://buttrfly.app/)
 - [DiverseHQ](https://diversehq.xyz/)
